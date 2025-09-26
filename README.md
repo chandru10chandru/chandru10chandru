@@ -1,5 +1,5 @@
-<!-- 🎨 Custom Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20👋,%20I'm%20CHANDRAKANTH%20DU&fontSize=45&fontColor=fff&fontAlignY=35&desc=🚀%20AI%20Engineer%20in%20Making%20%7C%20SaaS%20Builder%20%7C%20CS%20%26%20AI%20Student&descAlignY=55&descAlign=50)
+<!-- 🎨 Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=👋%20Hi,%20I'm%20CHANDRAKANTH%20DU&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20in%20Making%20%7C%20SaaS%20Builder%20%7C%20CS%20%26%20AI%20Student&descAlignY=55&descAlign=50)
 
 ---
 
@@ -15,16 +15,12 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,ts" />
   <br/>
-  <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,streamlit,tailwind,bootstrap" />
   <br/>
-  <!-- Databases & Cloud -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,vercel,netlify,aws" />
   <br/>
-  <!-- AI / ML -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />  
 </p>
 
@@ -73,5 +69,5 @@ Personal fitness & healthcare assistant with AI-based tracking.
 
 ---
 
-<!-- 🎨 Custom Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer&text=Thanks%20for%20visiting!%20💙&fontSize=25&fontColor=fff)
+<!-- 🎨 Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer&text=Thanks%20for%20visiting!%20💙&fontSize=25&fontColor=ffffff)
