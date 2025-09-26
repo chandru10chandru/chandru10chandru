@@ -1,27 +1,25 @@
-<!-- Profile Banner -->
-![Header](https://raw.githubusercontent.com/username/repo/main/assets/header.png)
-
-<h1 align="center">Hi 👋, I'm Chandru</h1>
-<h3 align="center">🚀 Aspiring AI Engineer | SaaS Builder | CS & AI Student</h3>
+<!-- 🎨 Custom Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20👋,%20I'm%20CHANDRAKANTH%20DU&fontSize=45&fontColor=fff&fontAlignY=35&desc=🚀%20AI%20Engineer%20in%20Making%20%7C%20SaaS%20Builder%20%7C%20CS%20%26%20AI%20Student&descAlignY=55&descAlign=50)
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pursuing **B.Tech in Computer Science & AI** at KLE Society's Dr. M. S. Sheshgiri College  
-- 💡 Passionate about **Generative AI, SaaS Development, Web Apps, Automation**  
-- 🚀 Currently building **AI-powered SaaS products** (Healthcare + LinkedIn Toolkit + RAG apps)  
-- 📈 Goal: Scale to **$10K/month MRR** with AI SaaS  
-- ⚡ Fun fact: I workout daily 💪 and love challenging myself with 5-day AI app-building sprints!  
+- 🎓 **B.Tech in Computer Science & AI** at KLE Society's Dr. M. S. Sheshgiri College  
+- 💡 Building **AI SaaS products**: Healthcare AI, LinkedIn Toolkit, and RAG Assistant  
+- 🚀 Goal: Scale to **$10K/month MRR** as a solo founder  
+- 📚 Learning: Generative AI • LangChain • Python OOPs • Low-Code SaaS Development  
+- 💪 Daily workout & personal growth mindset (tech × fitness × business)  
+- ⚡ Motto: *“Code. Build. Scale. Repeat.”*  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,ts" />
   <br/>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,streamlit,nextjs" />
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,streamlit,tailwind,bootstrap" />
   <br/>
   <!-- Databases & Cloud -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,vercel,netlify,aws" />
@@ -42,6 +40,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" height="200px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -59,26 +65,13 @@ Personal fitness & healthcare assistant with AI-based tracking.
 
 ---
 
-## 🏆 Achievements & Highlights
-- 🎯 Participating in **Hackathons & AI Challenges**  
-- 📚 Completed **Generative AI Course by Krish Naik**  
-- 🛠️ Self-taught **Full-Stack + AI SaaS Development**  
-- 🌍 Open-source contributor in AI/ML  
-
----
-
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react" /></a>
+  <a href="https://www.linkedin.com/in/chandrakanth-d-u-6291b0327"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/ChandrakanthDu"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <i>💡 “Code. Build. Scale. Repeat.” 💡</i>
-</p>
-
-![Footer](https://raw.githubusercontent.com/username/repo/main/assets/footer.png)
+<!-- 🎨 Custom Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer&text=Thanks%20for%20visiting!%20💙&fontSize=25&fontColor=fff)
