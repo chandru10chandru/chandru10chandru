@@ -17,20 +17,15 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Generative AI, Python & SaaS Development**  
 - 💡 Exploring **AI-powered products, freelancing & startup building**  
 - 🎯 Goal: Build & scale my own **AI SaaS company** 🚀  
 - 📫 Reach me via **LinkedIn / X (links above)**  
 
----
 
-### 📊 GitHub Stats & Streaks
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandrakant-D-U&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chandrakant-D-U&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
 
----
+
+
+
 
 ### 🛠️ Languages & Tools
 <p align="center">
