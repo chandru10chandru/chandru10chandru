@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:000000&height=200&section=header&text=CHANDRAKANTH%20DU&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Aspiring AI & SaaS Developer | Passionate about Generative AI, No-Code & SaaS 🚀</h3>
+<h3 align="center">  SaaS Developer | Passionate about Generative AI, No-Code & SaaS </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandrakanth-d-u-6291b0327">
@@ -34,10 +34,6 @@
 
 ---
 
-### ⚡ Current Focus
-- 🔹 Mastering **Python (up to OOPs)** & applying through projects  
-- 🔹 Building **AI SaaS apps** using no-code/low-code + APIs  
-- 🔹 Preparing to launch **freelancing journey** in AI & automation  
 
 ---
 
